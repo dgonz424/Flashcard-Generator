@@ -1,14 +1,14 @@
 [
 		{
-		"text": "Andrew ... was the only U.S. President who paid off the entire national debt.",
+		"text": "Andrew Jackson was the only U.S. President who paid off the entire national debt.",
 		"cloze": "Jackson"
 	},
 		{
-		"text": "The Declaration of Independence was signed in the city of ... on July 4, 1776.",
+		"text": "The Declaration of Independence was signed in the city of Philadelphia on July 4, 1776.",
 		"cloze": "Philadelphia"
 	},
 		{
-		"text": "The Bill of ... are the first ten Amendments of the U.S. Constitution.",
+		"text": "The Bill of Rights are the first ten Amendments of the U.S. Constitution.",
 		"cloze": "Rights"
 	}
 ]
